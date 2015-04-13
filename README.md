@@ -27,6 +27,8 @@
 * [Developing A Tabs Component in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
 * [Developing a zippy component in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
 * [Angular 2 Singleton Service (Raúl Jiménez)](http://twofuckingdevelopers.com/2015/04/angular-2-singleton-service/)
+* [Angular 2 Shadow DOM Emulation (Dylan Barrell)](http://unobfuscated.blogspot.co.uk/2015/03/posts-from-edge-angular-2-shadow-dom.html)
+* [Injecting Parents into Angular2 Components (Dylan Barrell)](http://unobfuscated.blogspot.com/2015/03/posts-from-edge-injecting-parents-into.html)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
