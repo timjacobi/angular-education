@@ -12,6 +12,8 @@
 * [AngularJS 2 Status and Preview (Santiago Esteva)](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
 
 ### Angular 2 Explained
+* [Building a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-zippy-component-in-angular-2.html)
+* [Building a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
