@@ -21,6 +21,10 @@
 * [Angular 2 Template Syntax (John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 
+### Angular 2 Docs
+The docs are somewhat hidden in the Angular 2 repo and subject to change but give a great insight to the concepts.
+* [Angular 2 Docs](https://github.com/angular/angular/tree/master/modules/angular2/docs)
+
 ### Tutorials
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
 * [Creating a Super Simple Todo app Using Angular 2 (Sandeep Panda)](http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial)
