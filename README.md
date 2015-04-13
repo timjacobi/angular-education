@@ -1,6 +1,6 @@
 # ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
 
-#### *A curated list of helpful material to get started with the second version of AngularJS*
+#### *A curated list of helpful material to get started doing education on Angular 2
 
 
 ### Introduction
