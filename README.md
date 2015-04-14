@@ -24,6 +24,7 @@
 * [Unified Dependency Injection (Victor Savkin)](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection)
 * [Angular 2 Template Syntax (John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
+* [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 
 ### Angular 2 Docs
 The docs are somewhat hidden in the Angular 2 repo and subject to change but give a great insight to the concepts.
