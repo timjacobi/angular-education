@@ -51,6 +51,7 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [ng2do (David East)](https://github.com/davideast/ng2do)
 * [ng-conf 2015 Demo (Microsoft)](https://github.com/Microsoft/ngconf2015demo)
 * [ng2chat (Rob Wormald)](https://github.com/robwormald/ng2chat)
+* [angular2-tuber (Alex Hawkins)](https://github.com/alexhawkins/angular2-tuber) *A YouTube Search Engine built with Angular2*
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
