@@ -68,3 +68,4 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [#angular2 on Twitter](https://twitter.com/hashtag/angular2)
 * [@angularjs on Twitter](https://twitter.com/angularjs)
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
+* [Angularjs on Google+](https://plus.google.com/u/0/+AngularJS/posts)
