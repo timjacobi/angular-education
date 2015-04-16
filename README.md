@@ -2,8 +2,10 @@
 
 #### *A curated list of helpful material to get started with education on Angular 2*
 
-##### Current Angular 2 version: 
+### Current Angular 2 version: 
 [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
+* [Milestones](https://github.com/angular/angular/milestones)
+* [Public chat] (https://gitter.im/angular/angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Introduction
 * [Intro to Angular 2 (David East)](https://angular2-intro.firebaseapp.com/)
