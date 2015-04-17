@@ -48,6 +48,7 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
 * [Yeoman: generator-angular2 (Chris Wheatley)](https://www.npmjs.com/package/generator-angular2)
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
+* [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
 * [Plunkr: Angular 2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
 
 ### Example Apps
