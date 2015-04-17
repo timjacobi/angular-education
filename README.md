@@ -66,6 +66,9 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [How to Import the HTTP module](http://stackoverflow.com/questions/28910864/angular-2-how-to-use-import-the-http-module)
 * [How to Import Immutable.js](http://stackoverflow.com/questions/29527024/how-do-i-import-immutable-js-into-angular-2-alpha)
 
+### Tools
+* [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
+
 ### Opinions
 * [Angular 2.0 is a tempest we should all embrace (Ed Gordon)](https://www.packtpub.com/books/content/angularjs-2-the-tempest-we-should-all-embrace)
 
