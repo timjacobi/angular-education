@@ -57,6 +57,7 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [ng2chat (Rob Wormald)](https://github.com/robwormald/ng2chat)
 * [angular2-tuber (Alex Hawkins)](https://github.com/alexhawkins/angular2-tuber) *A YouTube Search Engine built with Angular2*
 * [ng2-random-user (Kent C. Dodds)](http://kent.doddsfamily.us/ng2-random-user/) *Simple Random User Card getter using [randomuser.me](https://randomuser.me/)*
+* [hn-ng2 (Harry Wolff)](http://hswolff.github.io/hn-ng2/ *Hacker News implemented with Angular2*
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
