@@ -58,6 +58,7 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [angular2-tuber (Alex Hawkins)](https://github.com/alexhawkins/angular2-tuber) *A YouTube Search Engine built with Angular2*
 * [ng2-random-user (Kent C. Dodds)](http://kent.doddsfamily.us/ng2-random-user/) *Simple Random User Card getter using [randomuser.me](https://randomuser.me/)*
 * [hn-ng2 (Harry Wolff)](http://hswolff.github.io/hn-ng2/) *Hacker News implemented with Angular2*
+* [NG2 Challenges](https://github.com/ShMcK/ng2Challenges) *Challenges to help you learn and understand the evolving Angular2 Framework.*
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
