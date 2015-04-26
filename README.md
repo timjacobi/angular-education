@@ -15,6 +15,7 @@
 * [AngularJS 2 Status and Preview (Santiago Esteva)](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
 * [All About Angular 2.0 (Rob Eisenberg)](http://eisenbergeffect.bluespire.com/all-about-angular-2-0/)
 * [Getting Started with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/getting-started-with-angular-2-0/) *Great line by line introduction*
+* [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
 
 ### Angular 2 Explained
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
@@ -60,6 +61,7 @@
 * [hn-ng2 (Harry Wolff)](http://hswolff.github.io/hn-ng2/) *Hacker News implemented with Angular2. [Dart version (Andres Araujo)](https://github.com/andresaraujo/ng2_hackernews)*
 * [NG2 Challenges](https://github.com/ShMcK/ng2Challenges) *Challenges to help you learn and understand the evolving Angular2 Framework.*
 * [Angular2 & Express.js Starter (Antonio Fernandes)](https://github.com/afj176/ng2-express-starter)
+* [cart2 (Ciro Nunes)](https://github.com/cironunes/cart2)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
