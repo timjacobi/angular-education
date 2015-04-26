@@ -28,8 +28,7 @@
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 
 ### Angular 2 Docs
-The docs are somewhat hidden in the Angular 2 repo and subject to change but give a great insight to the concepts.
-* [Angular 2 Docs](https://github.com/angular/angular/tree/master/modules/angular2/docs)
+* [Angular 2 Docs](https://angular.io/docs/js/latest/)
 
 ### Tutorials
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
