@@ -66,6 +66,7 @@
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
 * [angular2-playground (Sekib Omazic)](https://github.com/SekibOmazic/angular2-playground)
+* [Angular 2 todo application (Jurgen Van de Moere)](http://plnkr.co/edit/talKbRxhKKdaYvWuM0s1?p=preview)
 
 ### Stack Overflow Questions
 * [Working with Angular 2](http://stackoverflow.com/questions/29050752/working-with-angular-2)
