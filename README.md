@@ -39,6 +39,7 @@
 * [Angular 2 Singleton Service (Raúl Jiménez)](http://twofuckingdevelopers.com/2015/04/angular-2-singleton-service/)
 * [Angular 2 Shadow DOM Emulation (Dylan Barrell)](http://unobfuscated.blogspot.co.uk/2015/03/posts-from-edge-angular-2-shadow-dom.html)
 * [Injecting Parents into Angular2 Components (Dylan Barrell)](http://unobfuscated.blogspot.com/2015/03/posts-from-edge-injecting-parents-into.html)
+* [A 10 minute primer to the new Angular router (Jurgen Van de Moere)](http://jvandemo.com/a-10-minute-primer-to-the-new-angular-router/)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
