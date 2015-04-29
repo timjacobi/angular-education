@@ -82,6 +82,6 @@
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [#angular2 on Twitter](https://twitter.com/hashtag/angular2)
 * [@angularjs on Twitter](https://twitter.com/angularjs)
-* [#angularjs at Freenode](https://webchat.freenode.net/)
+* [#angularjs at Freenode](http://webchat.freenode.net/?channels=angularjs&uio=d4)
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [Angularjs on Google+](https://plus.google.com/u/0/+AngularJS/posts)
