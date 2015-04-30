@@ -15,6 +15,7 @@
 * [AngularJS 2 Status and Preview (Santiago Esteva)](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
 * [All About Angular 2.0 (Rob Eisenberg)](http://eisenbergeffect.bluespire.com/all-about-angular-2-0/)
 * [Getting Started with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/getting-started-with-angular-2-0/) *Great line by line introduction*
+* [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
 
 ### Angular 2 Explained
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
@@ -28,8 +29,7 @@
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 
 ### Angular 2 Docs
-The docs are somewhat hidden in the Angular 2 repo and subject to change but give a great insight to the concepts.
-* [Angular 2 Docs](https://github.com/angular/angular/tree/master/modules/angular2/docs)
+* [Angular 2 Docs](https://angular.io/docs/js/latest/)
 
 ### Tutorials
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
@@ -61,6 +61,8 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [hn-ng2 (Harry Wolff)](http://hswolff.github.io/hn-ng2/) *Hacker News implemented with Angular2. [Dart version (Andres Araujo)](https://github.com/andresaraujo/ng2_hackernews)*
 * [NG2 Challenges](https://github.com/ShMcK/ng2Challenges) *Challenges to help you learn and understand the evolving Angular2 Framework.*
 * [Angular2 & Express.js Starter (Antonio Fernandes)](https://github.com/afj176/ng2-express-starter)
+* [cart2 (Ciro Nunes)](https://github.com/cironunes/cart2)
+* [Developing a MEAN app with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/developing-a-mean-app-with-angular-2-0/)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
@@ -81,5 +83,6 @@ The docs are somewhat hidden in the Angular 2 repo and subject to change but giv
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [#angular2 on Twitter](https://twitter.com/hashtag/angular2)
 * [@angularjs on Twitter](https://twitter.com/angularjs)
+* [#angularjs at Freenode](http://webchat.freenode.net/?channels=angularjs&uio=d4)
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [Angularjs on Google+](https://plus.google.com/u/0/+AngularJS/posts)
