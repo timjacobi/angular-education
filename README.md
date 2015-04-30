@@ -27,6 +27,7 @@
 * [Angular 2 Template Syntax (John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
+* [Video: Angular Router (Brian Ford)](https://www.youtube.com/watch?v=sfV0ApyN5fM)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
