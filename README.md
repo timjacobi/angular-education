@@ -32,6 +32,9 @@
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
 
+### Angular 2 Integrations
+* [Netflix: FalcorJS + Angular2 (gdi2290)](https://youtu.be/z8UgDZ4rXBU)
+
 ### Tutorials
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
 * [Creating a Super Simple Todo app Using Angular 2 (Sandeep Panda)](http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial)
