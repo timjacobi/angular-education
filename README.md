@@ -27,9 +27,13 @@
 * [Angular 2 Template Syntax (John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
+* [Video: Angular Router (Brian Ford)](https://www.youtube.com/watch?v=sfV0ApyN5fM)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
+
+### Angular 2 Integrations
+* [Netflix: FalcorJS + Angular2 (gdi2290)](https://youtu.be/z8UgDZ4rXBU)
 
 ### Tutorials
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
@@ -63,6 +67,7 @@
 * [Angular2 & Express.js Starter (Antonio Fernandes)](https://github.com/afj176/ng2-express-starter)
 * [cart2 (Ciro Nunes)](https://github.com/cironunes/cart2)
 * [Developing a MEAN app with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/developing-a-mean-app-with-angular-2-0/)
+* [JWT authentication in Angular 2 (mgonto and gdi2290)](https://github.com/auth0/angular2-authentication-sample)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
