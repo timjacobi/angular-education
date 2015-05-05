@@ -94,3 +94,4 @@
 * [#angularjs at Freenode](http://webchat.freenode.net/?channels=angularjs&uio=d4)
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [Angularjs on Google+](https://plus.google.com/u/0/+AngularJS/posts)
+* [/r/Angular2 on Reddit](http://www.reddit.com/r/Angular2)
