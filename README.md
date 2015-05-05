@@ -28,6 +28,7 @@
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 * [Video: Angular Router (Brian Ford)](https://www.youtube.com/watch?v=sfV0ApyN5fM)
+* [The difference between Annotations and Decorators (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
