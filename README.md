@@ -86,6 +86,7 @@
 
 ### Social Media
 * [Gitter Channel](https://gitter.im/angular/angular)
+* [Reddit /r/angular2](https://reddit.com/r/angular2)
 * [#angular2 on Twitter](https://twitter.com/hashtag/angular2)
 * [@angularjs on Twitter](https://twitter.com/angularjs)
 * [#angularjs at Freenode](http://webchat.freenode.net/?channels=angularjs&uio=d4)
