@@ -28,6 +28,7 @@
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 * [Video: Angular Router (Brian Ford)](https://www.youtube.com/watch?v=sfV0ApyN5fM)
+* [The difference between Annotations and Decorators (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
@@ -43,6 +44,7 @@
 * [Angular 2 Singleton Service (Raúl Jiménez)](http://twofuckingdevelopers.com/2015/04/angular-2-singleton-service/)
 * [Angular 2 Shadow DOM Emulation (Dylan Barrell)](http://unobfuscated.blogspot.co.uk/2015/03/posts-from-edge-angular-2-shadow-dom.html)
 * [Injecting Parents into Angular2 Components (Dylan Barrell)](http://unobfuscated.blogspot.com/2015/03/posts-from-edge-injecting-parents-into.html)
+* [An Introduction to Angular 2 (Jesus Rodriguez)](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
@@ -68,6 +70,7 @@
 * [cart2 (Ciro Nunes)](https://github.com/cironunes/cart2)
 * [Developing a MEAN app with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/developing-a-mean-app-with-angular-2-0/)
 * [JWT authentication in Angular 2 (mgonto and gdi2290)](https://github.com/auth0/angular2-authentication-sample)
+* [Add authentication to an Angular 2 app](https://github.com/auth0/angular2-authentication-sample)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
@@ -91,3 +94,4 @@
 * [#angularjs at Freenode](http://webchat.freenode.net/?channels=angularjs&uio=d4)
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [Angularjs on Google+](https://plus.google.com/u/0/+AngularJS/posts)
+* [/r/Angular2 on Reddit](http://www.reddit.com/r/Angular2)
