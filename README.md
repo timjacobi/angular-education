@@ -57,6 +57,7 @@
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
 * [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
 * [Plunkr: Angular 2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
+* [jsbin: ES5 Angular 2 (gdi2290)](http://jsbin.com/fimucu/10/edit?js,output)
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -70,13 +71,13 @@
 * [cart2 (Ciro Nunes)](https://github.com/cironunes/cart2)
 * [Developing a MEAN app with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/developing-a-mean-app-with-angular-2-0/)
 * [JWT authentication in Angular 2 (mgonto and gdi2290)](https://github.com/auth0/angular2-authentication-sample)
-* [Add authentication to an Angular 2 app](https://github.com/auth0/angular2-authentication-sample)
+* [Add authentication to an Angular 2 app](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/)
+* [ng-vegas-angular2-d3 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3) *Angular 2, TypeScript, and d3*
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
 * [angular2-playground (Sekib Omazic)](https://github.com/SekibOmazic/angular2-playground)
-* [jsBin ES5 Angular 2 (gdi2290)](http://jsbin.com/fimucu/10/edit?js,output)
-
+ 
 ### Stack Overflow Questions
 * [Working with Angular 2](http://stackoverflow.com/questions/29050752/working-with-angular-2)
 * [How to Import the HTTP module](http://stackoverflow.com/questions/28910864/angular-2-how-to-use-import-the-http-module)
