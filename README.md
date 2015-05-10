@@ -71,6 +71,7 @@
 * [Developing a MEAN app with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/developing-a-mean-app-with-angular-2-0/)
 * [JWT authentication in Angular 2 (mgonto and gdi2290)](https://github.com/auth0/angular2-authentication-sample)
 * [Add authentication to an Angular 2 app](https://github.com/auth0/angular2-authentication-sample)
+* [Angular Reading Position Indicator](https://github.com/mrzepinski/angular-rpi)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
