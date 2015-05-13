@@ -47,6 +47,7 @@
 * [Angular 2 Shadow DOM Emulation (Dylan Barrell)](http://unobfuscated.blogspot.co.uk/2015/03/posts-from-edge-angular-2-shadow-dom.html)
 * [Injecting Parents into Angular2 Components (Dylan Barrell)](http://unobfuscated.blogspot.com/2015/03/posts-from-edge-injecting-parents-into.html)
 * [An Introduction to Angular 2 (Jesus Rodriguez)](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/)
+* [Video: Getting started with Angular 2 developer preview](https://www.youtube.com/watch?v=HmWm21cCAXM)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
