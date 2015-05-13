@@ -29,6 +29,7 @@
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 * [Video: Angular Router (Brian Ford)](https://www.youtube.com/watch?v=sfV0ApyN5fM)
 * [The difference between Annotations and Decorators (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
+* [Video: Data binding in Angular 2 (Misko Hevery)](https://angularu.com/Video/2015sf/misko-hevery-talks-about-databinding-in-angular-2)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
