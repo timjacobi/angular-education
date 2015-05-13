@@ -24,6 +24,7 @@
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 * [Functional Programming in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/108837493941/better-support-for-functional-programming-in)
 * [Unified Dependency Injection (Victor Savkin)](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection)
+* [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
 * [Angular 2 Template Syntax (John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
