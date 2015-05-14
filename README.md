@@ -49,7 +49,7 @@
 * [Injecting Parents into Angular2 Components (Dylan Barrell)](http://unobfuscated.blogspot.com/2015/03/posts-from-edge-injecting-parents-into.html)
 * [An Introduction to Angular 2 (Jesus Rodriguez)](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/)
 * [Video: Getting started with Angular 2 developer preview](https://www.youtube.com/watch?v=HmWm21cCAXM)
-* [Video: Creating d3 components with Angular2 and TypeScript](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
+* [Video: Creating d3 components with Angular2 and TypeScript (gdi2290 and Aysegul Yonet)](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
@@ -77,6 +77,7 @@
 * [JWT authentication in Angular 2 (mgonto and gdi2290)](https://github.com/auth0/angular2-authentication-sample)
 * [Add authentication to an Angular 2 app](https://github.com/auth0/angular2-authentication-sample)
 * [Angular Reading Position Indicator](https://github.com/mrzepinski/angular-rpi)
+* [d3 directives from Angular 1 to Angular 2 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
