@@ -24,11 +24,13 @@
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 * [Functional Programming in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/108837493941/better-support-for-functional-programming-in)
 * [Unified Dependency Injection (Victor Savkin)](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection)
+* [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
 * [Angular 2 Template Syntax (John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 * [Video: Angular Router (Brian Ford)](https://www.youtube.com/watch?v=sfV0ApyN5fM)
 * [The difference between Annotations and Decorators (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
+* [Video: Data binding in Angular 2 (Misko Hevery)](https://angularu.com/Video/2015sf/misko-hevery-talks-about-databinding-in-angular-2)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
@@ -46,6 +48,8 @@
 * [Angular 2 Shadow DOM Emulation (Dylan Barrell)](http://unobfuscated.blogspot.co.uk/2015/03/posts-from-edge-angular-2-shadow-dom.html)
 * [Injecting Parents into Angular2 Components (Dylan Barrell)](http://unobfuscated.blogspot.com/2015/03/posts-from-edge-injecting-parents-into.html)
 * [An Introduction to Angular 2 (Jesus Rodriguez)](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/)
+* [Video: Getting started with Angular 2 developer preview](https://www.youtube.com/watch?v=HmWm21cCAXM)
+* [Video: Creating d3 components with Angular2 and TypeScript](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
