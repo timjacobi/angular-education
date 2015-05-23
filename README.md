@@ -26,6 +26,7 @@
 * [Unified Dependency Injection (Victor Savkin)](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection)
 * [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
 * [Angular 2 Template Syntax (John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-template-syntax)
+* [Angular 2 - Binding (es5)(John Lindquist)](https://egghead.io/lessons/angularjs-angular-2-binding-es5)
 * [Video: Zone.JS (Brian Ford)](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * [Angular 2 Series: Components (Ionic Team)](http://blog.ionic.io/angular-2-series-components/)
 * [Video: Angular Router (Brian Ford)](https://www.youtube.com/watch?v=sfV0ApyN5fM)
