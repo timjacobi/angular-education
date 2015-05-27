@@ -63,7 +63,7 @@
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
 * [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
 * [Plunkr: Angular 2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
-* [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
+* [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](https://github.com/angular-class/angular2-webpack-starter)
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
