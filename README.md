@@ -95,7 +95,8 @@
 * [How to Import Immutable.js](http://stackoverflow.com/questions/29527024/how-do-i-import-immutable-js-into-angular-2-alpha)
 
 ### Classes
-* [Udemy - Introduction to Angular 2 (free)](https://www.udemy.com/introduction-to-angular2/)
+* [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+* [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
