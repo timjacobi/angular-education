@@ -17,6 +17,7 @@
 * [Getting Started with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/getting-started-with-angular-2-0/) *Great line by line introduction*
 * [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
 * [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
+* [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
 
 ### Angular 2 Explained
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
