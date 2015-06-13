@@ -67,8 +67,10 @@
 * [Yeoman: generator-angular2 (Chris Wheatley)](https://www.npmjs.com/package/generator-angular2)
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
 * [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
-* [Plunkr: Angular 2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
+* [Plunkr: Angular2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
 * [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](https://github.com/angular-class/angular2-webpack-starter)
+* [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/ziaukhan/learn-angular2)
+* [Github: Angular2 Seed TypeScript (Minko Gechev)](https://github.com/mgechev/angular2-seed)
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -86,6 +88,7 @@
 * [Angular Reading Position Indicator](https://github.com/mrzepinski/angular-rpi)
 * [d3 directives from Angular 1 to Angular 2 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3)
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
+
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
@@ -121,3 +124,7 @@
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 * [Angular2 Dart Gnome Tutorial app](https://github.com/sanfordredlich/AngularDartGnomeTutorial)
 * [Angular2 Dart Router demo](https://github.com/rkirov/angular2-dart-router-demo/tree/master/angular2)
+
+
+### TypeScript Definitions
+* [DefinitelyTyped](http://definitelytyped.org/tsd)
