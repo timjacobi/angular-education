@@ -38,6 +38,7 @@
 * [Video: Data binding in Angular 2 (Misko Hevery)](https://angularu.com/Video/2015sf/misko-hevery-talks-about-databinding-in-angular-2)
 * [Dependency Injection in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
 * [Angular 2 Server Rendering (gdi2290 and Jeff Whelpley)](https://angularu.com/VideoSession/2015sf/angular-2-server-rendering)
+* [Shadow DOM Strategies in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
 
 
 ### Angular 2 Docs
