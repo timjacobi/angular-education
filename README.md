@@ -64,6 +64,7 @@
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+* [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
 
 ### Boilerplates
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
