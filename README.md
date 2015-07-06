@@ -40,6 +40,7 @@
 * [Angular 2 Server Rendering (gdi2290 and Jeff Whelpley)](https://angularu.com/VideoSession/2015sf/angular-2-server-rendering)
 * [Shadow DOM Strategies in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
 * [Routing in Angular 2](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
+* [Event better ES5 code for Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
 
 
 ### Angular 2 Docs
