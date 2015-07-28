@@ -21,9 +21,7 @@
 
 ### Angular 2 Explained
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
-* [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
 * [Angular 2 Template Syntax (Victor Savkin)](http://victorsavkin.com/post/119943127151/angular-2-template-syntax)
-* [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 * [Functional Programming in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/108837493941/better-support-for-functional-programming-in)
 * [Unified Dependency Injection (Victor Savkin)](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection)
@@ -41,6 +39,11 @@
 * [Shadow DOM Strategies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
 * [Routing in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
 * [Styling Angular 2 Components (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
+
+### Angular 2 Forms
+* [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
+* [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
+* [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 
 
 ### Angular 2 Docs
