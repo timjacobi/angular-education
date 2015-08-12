@@ -1,6 +1,6 @@
 # ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
 
-#### *A curated list of helpful material to get started with education on Angular 2*
+#### *A curated list of helpful material to start learning Angular 2*
 
 ##### Current Angular 2 version: 
 [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
