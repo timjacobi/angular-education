@@ -57,6 +57,7 @@
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 
 ### Tutorials
+* [Video: AngularJS 2.0 Overview - ToDo Application in 20 minutes](https://www.youtube.com/watch?v=rd3cLh_wn04)
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
 * [Creating a Super Simple Todo app Using Angular 2 (Sandeep Panda)](http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial)
 * [Developing A Tabs Component in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
