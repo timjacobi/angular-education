@@ -44,6 +44,7 @@
 * [Introduction to Angular 2 – The fundamentals of Components (Aleksey Novik)](http://www.webcodegeeks.com/javascript/angular-js/introduction-angular-2-fundamentals-components/)
 
 ### Angular 2 Forms
+* [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
 * [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
