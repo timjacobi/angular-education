@@ -42,6 +42,7 @@
 * [Event better ES5 code for Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
 * [Angular 2 Template Syntax Demystified - Part 1 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 * [Introduction to Angular 2 – The fundamentals of Components (Aleksey Novik)](http://www.webcodegeeks.com/javascript/angular-js/introduction-angular-2-fundamentals-components/)
+* [Host and Visibility in Angular 2's Dependency Injection (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
