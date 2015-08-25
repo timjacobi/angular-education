@@ -53,6 +53,8 @@
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 * [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 
+>>>>>>> Update README.md
+
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
