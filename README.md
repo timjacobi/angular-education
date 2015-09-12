@@ -109,6 +109,7 @@
 * [d3 directives from Angular 1 to Angular 2 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3)
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
 * [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](http://shlomiassaf.github.io/angular2-modal/)
+* [Built with Angular 2](http://shlomiassaf.github.io/angular2-modal/) *Showcase of apps built on Angular 2*
 
 
 ### Live Code Experiments
