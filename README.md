@@ -114,7 +114,7 @@
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
 * [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](http://shlomiassaf.github.io/angular2-modal/)
 * [Chat Application using RxJS (ng-book)](https://github.com/ng-book/angular2-rxjs-chat/)
- 
+
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
@@ -132,6 +132,7 @@
 
 ### Books
 * [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
+* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
