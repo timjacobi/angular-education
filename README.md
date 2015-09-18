@@ -22,7 +22,6 @@
 ### Angular 2 Explained
 
 * **[Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)**
-
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
 * [Angular 2 Template Syntax (Victor Savkin)](http://victorsavkin.com/post/119943127151/angular-2-template-syntax)
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
@@ -47,7 +46,8 @@
 * [Introduction to Angular 2 – The fundamentals of Components (Aleksey Novik)](http://www.webcodegeeks.com/javascript/angular-js/introduction-angular-2-fundamentals-components/)
 * [Host and Visibility in Angular 2's Dependency Injection (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
 * [Angular 2 Cheat Sheet (WIP)](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
-* * [Forward References in Angular 2 (Christoph Burgdorf)](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+* [Forward References in Angular 2 (Christoph Burgdorf)](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+* [Resolving Service Dependencies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
