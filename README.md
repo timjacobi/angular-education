@@ -84,7 +84,7 @@
 
 ### Boilerplates
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
-* [Github: ng2-play (Roland Groza)](https://github.com/rolandjitsu/ng2-play)
+* [Github: ng2-lab (Roland Groza)](https://github.com/rolandjitsu/ng2-lab)
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
 * [Github: Angular2 Sandbox (Gion Kunz)](https://github.com/gionkunz/angular2-sandbox)
 * [Yeoman: generator-angular2 (Chris Wheatley)](https://www.npmjs.com/package/generator-angular2)
