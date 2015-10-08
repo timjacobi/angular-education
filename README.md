@@ -48,6 +48,9 @@
 * [Angular 2 Cheat Sheet (WIP)](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
 * [Forward References in Angular 2 (Christoph Burgdorf)](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
 * [Resolving Service Dependencies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
+* [Angular 2: Event Emitters(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-event-emitters/)
+* [Angular 2: Properties(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-properties/)
+* [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
