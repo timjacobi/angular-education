@@ -138,6 +138,7 @@
 ### Books
 * [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
+* [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
