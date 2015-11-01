@@ -119,6 +119,7 @@
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
 * [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](http://shlomiassaf.github.io/angular2-modal/)
 * [Chat Application using RxJS (ng-book)](https://github.com/ng-book/angular2-rxjs-chat/)
+* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
 
 
 ### Live Code Experiments
