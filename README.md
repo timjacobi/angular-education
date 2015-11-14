@@ -139,6 +139,7 @@
 ### Classes
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
+* [Angular Boot Camp](http://angularbootcamp.com)
 
 ### Books
 * [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
