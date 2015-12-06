@@ -86,6 +86,7 @@
 * [Angular Reading Position Indicator](https://github.com/mrzepinski/angular-rpi)
 * [d3 directives from Angular 1 to Angular 2 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3)
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
+* [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
