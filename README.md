@@ -53,8 +53,6 @@
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 * [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 
->>>>>>> Update README.md
-
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
@@ -128,7 +126,7 @@
 * [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](http://shlomiassaf.github.io/angular2-modal/)
 * [Chat Application using RxJS (ng-book)](https://github.com/ng-book/angular2-rxjs-chat/)
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
-
+* [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
