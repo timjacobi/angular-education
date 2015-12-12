@@ -51,6 +51,7 @@
 * [Angular 2: Event Emitters(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-event-emitters/)
 * [Angular 2: Properties(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-properties/)
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
+* [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
