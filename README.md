@@ -147,6 +147,7 @@
 * [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
 * [Angular 2 in action](https://www.manning.com/books/angular-2-in-action)
+* [Angular 2 - A Practical Introduction to the New Web Development Platform](https://leanpub.com/angular2-book)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
