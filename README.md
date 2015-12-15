@@ -90,6 +90,7 @@
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use Angular2 directives for file upload
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
+* [mydatepicker](https://github.com/kekeh/mydatepicker) Angular2 date picker
 
 ### Boilerplates
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
