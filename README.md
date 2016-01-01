@@ -134,6 +134,9 @@
 * [angular2-playground (Sekib Omazic)](https://github.com/SekibOmazic/angular2-playground)
 * [jsBin ES5 Angular 2 (gdi2290)](http://jsbin.com/fimucu/10/edit?js,output)
 
+### Angular 2 Material
+* [Angular 2 Material Components Preview](https://justindujardin.github.io/ng2-material/)
+
 ### Stack Overflow Questions
 * [Working with Angular 2](http://stackoverflow.com/questions/29050752/working-with-angular-2)
 * [How to Import the HTTP module](http://stackoverflow.com/questions/28910864/angular-2-how-to-use-import-the-http-module)
