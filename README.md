@@ -45,7 +45,7 @@
 * [Angular 2 Template Syntax Demystified - Part 1 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 * [Introduction to Angular 2 – The fundamentals of Components (Aleksey Novik)](http://www.webcodegeeks.com/javascript/angular-js/introduction-angular-2-fundamentals-components/)
 * [Host and Visibility in Angular 2's Dependency Injection (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
-* [Angular 2 Cheat Sheet (WIP)](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
+* [Angular 2 Cheat Sheet (WIP)](https://angular.io/cheatsheet)
 * [Forward References in Angular 2 (Christoph Burgdorf)](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
 * [Resolving Service Dependencies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
 * [Angular 2: Event Emitters(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-event-emitters/)
