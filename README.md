@@ -106,6 +106,7 @@
 * [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
 * [Github: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 * [Github: Angular2 + TypeScript: Seed Project (@ghpabs)](https://github.com/ghpabs/angular2-seed) Fully automated development workflow using Gulp.
+* [Github: Angular 2 starter pack in ES6](https://github.com/blacksonic/angular2-es6-starter) A skeleton Angular 2 application built in ES6 with Babel, Webpack, Gulp.
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -128,6 +129,7 @@
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
 * [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
 * [Dribbble Clone using Angular 2](https://github.com/zamamohammed/ng2-dribbble)
+* [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
