@@ -136,6 +136,7 @@
 
 ### Angular 2 Material
 * [Angular 2 Material Components Preview](https://justindujardin.github.io/ng2-material/)
+* [Official Angular 2 Material Components (very early stage of its development process)](https://github.com/angular/material2)
 
 ### Stack Overflow Questions
 * [Working with Angular 2](http://stackoverflow.com/questions/29050752/working-with-angular-2)
