@@ -104,7 +104,6 @@
 * [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/ziaukhan/learn-angular2)
 * [Github: Angular2 Seed TypeScript (Minko Gechev)](https://github.com/mgechev/angular2-seed)
 * [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
-* [Github: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 * [Github: Angular2 + TypeScript: Seed Project (@ghpabs)](https://github.com/ghpabs/angular2-seed) Fully automated development workflow using Gulp.
 
 ### Example Apps
