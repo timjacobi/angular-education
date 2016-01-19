@@ -128,6 +128,7 @@
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
 * [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
 * [Dribbble Clone using Angular 2](https://github.com/zamamohammed/ng2-dribbble)
+* [Angular 2 Blog](https://github.com/previousdeveloper/angular2-blog)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
