@@ -132,6 +132,7 @@
 * [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
 * [Dribbble Clone using Angular 2](https://github.com/zamamohammed/ng2-dribbble)
 * [Angular 2 & TypeScript implementation of the Responsive Dashboard (RDash) admin dashboard theme @ziyasal](https://github.com/ziyasal/rdash-angular2)
+* [Auth0, Angular 2: The new horizon](https://github.com/auth0/angular2-the-new-horizon-sample)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
