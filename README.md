@@ -86,10 +86,13 @@
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
-* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 bootstrap components
-* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use Angular2 directives for file upload
-* [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
+* [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
+* [ng2-dragula](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
+* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
+* [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+* [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 
 ### Boilerplates
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
