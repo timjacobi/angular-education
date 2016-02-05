@@ -9,7 +9,7 @@
 * [Intro to Angular 2 (David East)](https://angular2-intro.firebaseapp.com/)
 * [Official Angular 2 Design Docs (Google)](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 * [Official Angular 2 - 5 min quickstart](https://angular.io/docs/js/latest/quickstart.html)
-* [Angular2 - First Impressions (Minko Gechev)](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
+* [Angular2 - First Impressions (Minko Gechev)](http://blog.mgechev.com/2015/04/06/angular2-first-impressions)
 * [Angular 2 Series: Introduction (Ionic Team)](http://blog.ionic.io/angular-2-series-introduction/)
 * [Video: Keynote on Angular 2 (Misko Hevery, Rado Kirov)](https://www.youtube.com/watch?v=-dMBcqwvYA0)
 * [AngularJS 2 Status and Preview (Santiago Esteva)](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
