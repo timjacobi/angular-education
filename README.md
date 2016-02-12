@@ -135,6 +135,7 @@
 * [Dribbble Clone using Angular 2](https://github.com/zamamohammed/ng2-dribbble)
 * [Angular 2 & TypeScript implementation of the Responsive Dashboard (RDash) admin dashboard theme @ziyasal](https://github.com/ziyasal/rdash-angular2)
 * [Angular 2 Chosen wrapper](https://github.com/zouabimourad/angular2-chosen)
+* [Angular 2 Money, dates and datetimes input handling](https://github.com/zouabimourad/angular2-datetime-money)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
