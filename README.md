@@ -104,6 +104,7 @@
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
 * [Github: Angular2 Sandbox (Gion Kunz)](https://github.com/gionkunz/angular2-sandbox)
 * [Yeoman: generator-angular2 (Chris Wheatley)](https://www.npmjs.com/package/generator-angular2)
+* [Yeoman: generator-mcfly-ng2 (Avi Haiat)](https://www.npmjs.com/package/generator-mcfly-ng2)
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
 * [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
 * [Plunkr: Angular2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
