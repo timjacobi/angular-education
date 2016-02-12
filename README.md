@@ -18,7 +18,7 @@
 * [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
 * [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
 * [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
-* [Getting Started with Angular 2 and ASP NET Core 1 (Juan Carlos Sánchez)] (http://softwarejuancarlos.com/2016/01/24/getting-started-with-asp-net-core-1-and-angular-2-in-visual-studio-2015)
+* [Getting Started with Angular 2 and ASP NET Core 1 (Juan Carlos Sánchez)] (http://softwarejuancarlos.com/2016/01/24/getting-started-with-asp-net-core-1-and-angular-2-in-visual-studio-2015/)
 
 ### Angular 2 Explained
 
@@ -52,7 +52,7 @@
 * [Angular 2: Event Emitters(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-event-emitters/)
 * [Angular 2: Properties(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-properties/)
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
-* [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
+* [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/2015/08/21/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
@@ -66,7 +66,7 @@
 
 ### Angular 2 Integrations
 * [Netflix: FalcorJS + Angular2 (gdi2290)](https://youtu.be/z8UgDZ4rXBU)
-* [Angular2-Meteor](http://angular-meteor.com/angular2)
+* [Angular2-Meteor](http://www.angular-meteor.com/angular2)
 
 ### Tutorials
 * [Video: AngularJS 2.0 Overview - ToDo Application in 20 minutes](https://www.youtube.com/watch?v=rd3cLh_wn04)
@@ -110,11 +110,11 @@
 * [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
 * [Plunkr: Angular2 + Typescript Template](http://plnkr.co/edit/gzRRa8)
 * [Plunkr: Angular2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
-* [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](https://github.com/angular-class/angular2-webpack-starter)
-* [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/ziaukhan/learn-angular2)
+* [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](https://github.com/AngularClass/angular2-webpack-starter)
+* [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/panacloud/learn-angular2)
 * [Github: Angular2 Seed TypeScript (Minko Gechev)](https://github.com/mgechev/angular2-seed)
 * [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
-* [Github: Angular2 + TypeScript: Seed Project (@ghpabs)](https://github.com/ghpabs/angular2-seed) Fully automated development workflow using Gulp.
+* [Github: Angular2 + TypeScript: Seed Project (@ghpabs)](https://github.com/ghpabs/angular2-seed-project) Fully automated development workflow using Gulp.
 * [Github: Angular2 Starter for TypeScript (Antony Budianto)](https://github.com/antonybudianto/angular2-starter) Complete Gulp Workflow
 
 ### Example Apps
@@ -122,7 +122,7 @@
 * [ng-conf 2015 Demo (Microsoft)](https://github.com/Microsoft/ngconf2015demo)
 * [ng2chat (Rob Wormald)](https://github.com/robwormald/ng2chat)
 * [angular2-tuber (Alex Hawkins)](https://github.com/alexhawkins/angular2-tuber) *A YouTube Search Engine built with Angular2*
-* [ng2-random-user (Kent C. Dodds)](http://kent.doddsfamily.us/ng2-random-user/) *Simple Random User Card getter using [randomuser.me](https://randomuser.me/)*
+* [ng2-random-user (Kent C. Dodds)](http://kentcdodds.com/ng2-random-user/) *Simple Random User Card getter using [randomuser.me](https://randomuser.me/)*
 * [hn-ng2 (Harry Wolff)](http://hswolff.github.io/hn-ng2/) *Hacker News implemented with Angular2. [Dart version (Andres Araujo)](https://github.com/andresaraujo/ng2_hackernews)*
 * [NG2 Challenges](https://github.com/ShMcK/ng2Challenges) *Challenges to help you learn and understand the evolving Angular2 Framework.*
 * [Angular2 & Express.js Starter (Antonio Fernandes)](https://github.com/afj176/ng2-express-starter)
@@ -137,7 +137,7 @@
 * [Chat Application using RxJS (ng-book)](https://github.com/ng-book/angular2-rxjs-chat/)
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
 * [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
-* [Dribbble Clone using Angular 2](https://github.com/zamamohammed/ng2-dribbble)
+* [Dribbble Clone using Angular 2](https://github.com/mohammedzamakhan/ng2-dribbble)
 * [Angular2 Leaflet Starter](https://github.com/haoliangyu/angular2-leaflet-starter)
 * [Angular 2 & TypeScript implementation of the Responsive Dashboard (RDash) admin dashboard theme @ziyasal](https://github.com/ziyasal/rdash-angular2)
 * [Angular 2 Chosen wrapper](https://github.com/zouabimourad/angular2-chosen)
@@ -164,14 +164,14 @@
 * [AngularClass](https://angularclass.com)
 
 ### Books
-* [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
+* [ng-book 2 (Ari Lerner)](https://www.ng-book.com/2/)
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
 * [Angular 2 in action](https://www.manning.com/books/angular-2-in-action)
 * [Angular 2 - A Practical Introduction to the New Web Development Platform](https://leanpub.com/angular2-book)
 * [Practical Angular 2](https://leanpub.com/practical-angular-2)
 
 ### Tools
-* [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
+* [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-annotations)
 
 ### Opinions
 * [Angular 2.0 is a tempest we should all embrace (Ed Gordon)](https://www.packtpub.com/books/content/angularjs-2-the-tempest-we-should-all-embrace)
@@ -182,15 +182,15 @@
 * [@angularjs on Twitter](https://twitter.com/angularjs)
 * [#angularjs at Freenode](http://webchat.freenode.net/?channels=angularjs&uio=d4)
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
-* [Angularjs on Google+](https://plus.google.com/u/0/+AngularJS/posts)
-* [/r/Angular2 on Reddit](http://www.reddit.com/r/Angular2)
+* [Angularjs on Google+](https://plus.google.com/+AngularJS/posts)
+* [/r/Angular2 on Reddit](https://www.reddit.com/r/Angular2)
 
 ### Angular 2 Dart
 * [Angular2 Dart API cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
-* [Angular2 Dart Gnome Tutorial app](https://github.com/sanfordredlich/AngularDartGnomeTutorial)
+* [Angular2 Dart Gnome Tutorial app](https://github.com/sanfordredlich/angular2-dart-gnome-example-app)
 * [Angular2 Dart Router demo](https://github.com/rkirov/angular2-dart-router-demo/tree/master/angular2)
 
 
 ### TypeScript Definitions
-* [DefinitelyTyped](http://definitelytyped.org/tsd)
+* [DefinitelyTyped](http://definitelytyped.org/tsd/)
