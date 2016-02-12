@@ -98,6 +98,7 @@
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
 * [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 * [file-droppa] (https://github.com/ptkach/fileDroppa) Angular2 file upload and file list directives
+* [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps.
 
 ### Boilerplates
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
