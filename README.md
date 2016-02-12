@@ -22,7 +22,7 @@
 
 ### Angular 2 Explained
 
-* **[Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)**
+* [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
 * [Angular 2 Template Syntax (Victor Savkin)](http://victorsavkin.com/post/119943127151/angular-2-template-syntax)
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
