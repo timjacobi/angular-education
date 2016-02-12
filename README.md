@@ -145,6 +145,7 @@
 * [Angular 2 Money, dates and datetimes input handling](https://github.com/zouabimourad/angular2-datetime-money)
 * [Auth0, Angular 2: The new horizon](https://github.com/auth0/angular2-the-new-horizon-sample)
 * [Angular 2 Blog](https://github.com/previousdeveloper/angular2-blog)
+* [Angular 2 Samples(Torgeir Helgevold)](https://github.com/thelgevold/angular-2-samples)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
