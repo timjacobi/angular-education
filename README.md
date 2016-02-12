@@ -59,7 +59,7 @@
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
 * [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
-
+* [Angular 2 Form Builder and Validation Management (Cory Rylan)](https://coryrylan.com/blog/angular-2-form-builder-and-validation-management)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
@@ -84,6 +84,8 @@
 * [Complete guide of Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 * [recursive treeview in angular 2.0 (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0)
 * [How to publish a library for Angular 2 on npm (Olivier Combe)](https://medium.com/@OCombe/how-to-publish-a-library-for-angular-2-on-npm-5f48cdabf435)
+* [Angular 2 Observable Data Services (Cory Rylan)](https://coryrylan.com/blog/angular-2-observable-data-services)
+* [Angular 2 Text Snippet Directive (Cory Rylan)](https://coryrylan.com/blog/angular-2-text-snippet-directive)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
