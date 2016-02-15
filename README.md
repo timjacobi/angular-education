@@ -117,6 +117,7 @@
 * [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
 * [Github: Angular2 + TypeScript: Seed Project (@ghpabs)](https://github.com/ghpabs/angular2-seed-project) Fully automated development workflow using Gulp.
 * [Github: Angular2 Starter for TypeScript (Antony Budianto)](https://github.com/antonybudianto/angular2-starter) Complete Gulp Workflow
+* [Github: Angular2 Starter for Javascript in ES6](https://github.com/blacksonic/angular2-es6-starter) Automated Gulp workflow with example CRUD application.
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
