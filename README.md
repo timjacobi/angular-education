@@ -162,6 +162,7 @@
 * [How to Import Immutable.js](http://stackoverflow.com/questions/29527024/how-do-i-import-immutable-js-into-angular-2-alpha)
 
 ### Classes
+* [Free Udemy Course - Angular 2 Fundamentals](https://www.udemy.com/angular-2-fundamentals)
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
 * [Angular Boot Camp](http://angularbootcamp.com)
