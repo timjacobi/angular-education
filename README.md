@@ -146,6 +146,7 @@
 * [Auth0, Angular 2: The new horizon](https://github.com/auth0/angular2-the-new-horizon-sample)
 * [Angular 2 Blog](https://github.com/previousdeveloper/angular2-blog)
 * [Angular 2 Samples(Torgeir Helgevold)](https://github.com/thelgevold/angular-2-samples)
+* [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
