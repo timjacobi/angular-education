@@ -200,3 +200,6 @@
 
 ### TypeScript Definitions
 * [DefinitelyTyped](http://definitelytyped.org/tsd/)
+
+### Best Practices and Style Guidelines
+* [Angular 2 Style Guide (by Minko Gechev)](https://mgechev.github.io/angular2-style-guide/)
