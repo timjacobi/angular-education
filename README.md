@@ -206,3 +206,7 @@
 
 ### Best Practices and Style Guidelines
 * [Angular 2 Style Guide (by Minko Gechev)](https://mgechev.github.io/angular2-style-guide/)
+
+### Related Lists
+* [AngularJS Education - A collection of useful resources to learn and improve your AngularJS skills](https://github.com/timjacobi/angular-education)
+* [TypeScript Education - A list of helpful material to start learning TypeScript](https://github.com/lennonjesus/typescript-education)
