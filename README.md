@@ -19,6 +19,7 @@
 * [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
 * [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
 * [Getting Started with Angular 2 and ASP NET Core 1 (Juan Carlos Sánchez)] (http://softwarejuancarlos.com/2016/01/24/getting-started-with-asp-net-core-1-and-angular-2-in-visual-studio-2015/)
+* [Angular 2 and the future of HTML5 apps (Brad Green)](https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps)
 
 ### Angular 2 Explained
 
