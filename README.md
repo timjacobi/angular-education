@@ -102,6 +102,7 @@
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps.
 
 ### Boilerplates
+* [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
 * [Github: ng2-lab (Roland Groza)](https://github.com/rolandjitsu/ng2-lab)
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
