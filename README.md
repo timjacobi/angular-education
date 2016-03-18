@@ -166,6 +166,7 @@
 
 ### Classes
 * [Free Udemy Course - Angular 2 Fundamentals](https://www.udemy.com/angular-2-fundamentals)
+* [Udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [Udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
