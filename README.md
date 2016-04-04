@@ -185,7 +185,7 @@
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-annotations)
 * [Angular2 Snippets for Sublime Text](https://github.com/evanplaice/angular2-snippets)
 * [Angular 2 Style Guide WebStorm Live Templates](https://github.com/d3viant0ne/angular2-webstorm-templates)
-* [ng2lint - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.](https://github.com/mgechev/ng2lint)
+* [Codelyzer - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.](https://github.com/mgechev/codelyzer)
 
 ### Opinions
 * [Angular 2.0 is a tempest we should all embrace (Ed Gordon)](https://www.packtpub.com/books/content/angularjs-2-the-tempest-we-should-all-embrace)
