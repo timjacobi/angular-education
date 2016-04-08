@@ -61,6 +61,7 @@
 * [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 * [Angular 2 Form Builder and Validation Management (Cory Rylan)](https://coryrylan.com/blog/angular-2-form-builder-and-validation-management)
+* [JavaScript/JSON powered FORMS for ANGULAR 2 (ng2-formly)](https://github.com/formly-js/ng2-formly)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
