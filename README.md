@@ -104,6 +104,7 @@
 * [primeng](http://www.primefaces.org/primeng/) collection of rich UI components for Angular2.
 
 ### Boilerplates
+* [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
 * [Github: ng2-lab (Roland Groza)](https://github.com/rolandjitsu/ng2-lab)
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
@@ -172,6 +173,7 @@
 
 ### Classes
 * [Free Udemy Course - Angular 2 Fundamentals](https://www.udemy.com/angular-2-fundamentals)
+* [Udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [Udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
