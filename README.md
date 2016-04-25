@@ -178,6 +178,7 @@
 * [AngularClass](https://angularclass.com)
 
 ### Books
+* [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
 * [ng-book 2 (Ari Lerner)](https://www.ng-book.com/2/)
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
 * [Angular 2 in action](https://www.manning.com/books/angular-2-in-action)
