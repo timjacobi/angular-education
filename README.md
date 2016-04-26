@@ -5,6 +5,9 @@
 ##### Current Angular 2 version:
 [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
+#### *Contributing*
+*Please send a pull request to add any links and use the issues for general questions, thanks!*
+
 ### Introduction
 * [Official Angular 2 Design Docs (Google)](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 * [Official Angular 2 - 5 min quickstart](https://angular.io/docs/js/latest/quickstart.html)
