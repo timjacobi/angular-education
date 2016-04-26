@@ -109,6 +109,7 @@
 * [Github: ng2-lab (Roland Groza)](https://github.com/rolandjitsu/ng2-lab)
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
 * [Github: Angular2 Sandbox (Gion Kunz)](https://github.com/gionkunz/angular2-sandbox)
+* [Yeoman: generator-modern-web-dev (NG2, TypeScript, ES2015, SASS, ... and completely separate build system) (Sebastien Dubois)](https://www.npmjs.com/package/generator-modern-web-dev)
 * [Yeoman: generator-angular2 (Chris Wheatley)](https://www.npmjs.com/package/generator-angular2)
 * [Yeoman: generator-mcfly-ng2 (Avi Haiat)](https://www.npmjs.com/package/generator-mcfly-ng2)
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
