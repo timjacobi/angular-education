@@ -19,13 +19,15 @@
 * [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
 * [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
 * [Angular 2 and the future of HTML5 apps (Brad Green)](https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps)
-* [Adding Redux With Ngrx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/) 
-* [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
-* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
 * [From Angular 1.x ng-repeat to Angular 2 NgFor with Component](http://orizens.com/wp/topics/from-angular-1-x-ng-repeat-to-angular-2-ngfor-with-component/)
 * [Migrating A Component From Angular 1.x to Angular 2](http://orizens.com/wp/topics/migrating-a-component-to-angular-2-from-angular-1-x-es2015/) 
 * [Angular 2: Attribute @Directive() & Creating An Infinite Scroll Directive](http://orizens.com/wp/topics/angular-2-attribute-directive-creating-an-infinite-scroll-directive/) 
 * [Angular 2 – Communication Between Components & Components Design](http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
+
+### Angular 2 NgRx/Store
+* [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/) 
+* [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
+* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
 
 ### Angular 2 Explained
 
