@@ -188,6 +188,7 @@
 * [Udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [Udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+* [Udemy - Angular 2 - Concepts, Code and Collective Wisdom](https://www.udemy.com/angular-2-concepts-code-and-collective-wisdom/?couponCode=timjacobi)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
 * [Angular Boot Camp](http://angularbootcamp.com)
 * [AngularClass](https://angularclass.com)
