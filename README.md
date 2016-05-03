@@ -124,7 +124,7 @@
 * [Yeoman: generator-mcfly-ng2 (Avi Haiat)](https://www.npmjs.com/package/generator-mcfly-ng2)
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
 * [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
-* [Plunkr: Angular2 + Typescript Template](http://plnkr.co/edit/gzRRa8)
+* [Plunkr: Angular2 + Typescript Template (@radotzki)](http://plnkr.co/edit/gzRRa8)
 * [Plunkr: Angular2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
 * [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](https://github.com/AngularClass/angular2-webpack-starter)
 * [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/panacloud/learn-angular2)
