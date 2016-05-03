@@ -3,7 +3,7 @@
 #### *A curated list of helpful material to start learning Angular 2*
 
 ##### Current Angular 2 version:
-[![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
+![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
 
 #### *Contributing*
 *Please send a pull request to add any links and use the issues for general questions, thanks!*
