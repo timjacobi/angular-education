@@ -168,6 +168,7 @@
 * [Go Game](https://github.com/lys1030/ng-go)
 * [Stock Portfolio](https://github.com/paulhoughton/portfolio/)
 * [Echoes Player open source app in ng2](http://github.com/orizens/echoes-ng2) 
+* [Sequence Alignment Calculator (@radotzki)](https://radotzki.github.io/sequence-alignment/)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
