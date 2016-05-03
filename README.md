@@ -110,6 +110,7 @@
 * [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 * [file-droppa] (https://github.com/ptkach/fileDroppa) Angular2 file upload and file list directives
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps.
+* [angular2localization](https://github.com/robisim74/angular2localization) An Angular 2 library to translate messages, dates and numbers.
 * [primeng](http://www.primefaces.org/primeng/) collection of rich UI components for Angular2.
 * [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component 
 
