@@ -170,6 +170,7 @@
 * [Stock Portfolio](https://github.com/paulhoughton/portfolio/)
 * [Echoes Player open source app in ng2](http://github.com/orizens/echoes-ng2) 
 * [Sequence Alignment Calculator (@radotzki)](https://radotzki.github.io/sequence-alignment/)
+* [Directive checking if an element is within the browsers visual viewport (@k3nsei)](https://github.com/k3nsei/angular2-in-viewport)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
