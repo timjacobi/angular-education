@@ -113,6 +113,7 @@
 * [angular2localization](https://github.com/robisim74/angular2localization) An Angular 2 library to translate messages, dates and numbers.
 * [primeng](http://www.primefaces.org/primeng/) collection of rich UI components for Angular2.
 * [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component 
+* [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) Angular2 Bootstrap3 Modal Component
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
