@@ -235,6 +235,7 @@
 * [DefinitelyTyped](http://definitelytyped.org/tsd/)
 
 ### Best Practices and Style Guidelines
+* [Official Angular 2 Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
 * [Angular 2 Style Guide (by Minko Gechev)](https://mgechev.github.io/angular2-style-guide/)
 
 ### Related Lists
