@@ -194,6 +194,7 @@
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
 * [Angular Boot Camp](http://angularbootcamp.com)
 * [AngularClass](https://angularclass.com)
+* [Web Age Solutions - Angular 2 Programming](http://www.webagesolutions.com/courses/WA2533-angular-2-programming)
 
 ### Books
 * [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
