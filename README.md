@@ -20,12 +20,12 @@
 * [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
 * [Angular 2 and the future of HTML5 apps (Brad Green)](https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps)
 * [From Angular 1.x ng-repeat to Angular 2 NgFor with Component](http://orizens.com/wp/topics/from-angular-1-x-ng-repeat-to-angular-2-ngfor-with-component/)
-* [Migrating A Component From Angular 1.x to Angular 2](http://orizens.com/wp/topics/migrating-a-component-to-angular-2-from-angular-1-x-es2015/) 
-* [Angular 2: Attribute @Directive() & Creating An Infinite Scroll Directive](http://orizens.com/wp/topics/angular-2-attribute-directive-creating-an-infinite-scroll-directive/) 
+* [Migrating A Component From Angular 1.x to Angular 2](http://orizens.com/wp/topics/migrating-a-component-to-angular-2-from-angular-1-x-es2015/)
+* [Angular 2: Attribute @Directive() & Creating An Infinite Scroll Directive](http://orizens.com/wp/topics/angular-2-attribute-directive-creating-an-infinite-scroll-directive/)
 * [Angular 2 – Communication Between Components & Components Design](http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
 
 ### Angular 2 NgRx/Store
-* [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/) 
+* [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
 * [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
 * [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
 
@@ -112,7 +112,7 @@
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps.
 * [angular2localization](https://github.com/robisim74/angular2localization) An Angular 2 library to translate messages, dates and numbers.
 * [primeng](http://www.primefaces.org/primeng/) collection of rich UI components for Angular2.
-* [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component 
+* [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component
 * [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) Angular2 Bootstrap3 Modal Component
 
 ### Boilerplates
@@ -169,7 +169,7 @@
 * [TV Tracker](https://github.com/mattlewis92/angular2-tv-tracker)
 * [Go Game](https://github.com/lys1030/ng-go)
 * [Stock Portfolio](https://github.com/paulhoughton/portfolio/)
-* [Echoes Player open source app in ng2](http://github.com/orizens/echoes-ng2) 
+* [Echoes Player open source app in ng2](http://github.com/orizens/echoes-ng2)
 * [Sequence Alignment Calculator (@radotzki)](https://radotzki.github.io/sequence-alignment/)
 * [Directive checking if an element is within the browsers visual viewport (@k3nsei)](https://github.com/k3nsei/angular2-in-viewport)
 * [Directive checking if clicked inside elementRef or outside (@k3nsei)](https://github.com/k3nsei/angular2-click-outside)
@@ -240,7 +240,6 @@
 
 ### Best Practices and Style Guidelines
 * [Official Angular 2 Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
-* [Angular 2 Style Guide (by Minko Gechev)](https://mgechev.github.io/angular2-style-guide/)
 
 ### Related Lists
 * [AngularJS Education - A collection of useful resources to learn and improve your AngularJS skills](https://github.com/timjacobi/angular-education)
