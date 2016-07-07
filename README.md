@@ -48,12 +48,16 @@
 * [Angular 2 Cheat Sheet (WIP)](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
 * [Forward References in Angular 2 (Christoph Burgdorf)](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
 * [Resolving Service Dependencies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
+* [How does Angular 2 Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-angular-2-in-production-today/)
+
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
 * [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
+* [Introduction to Angular 2 Forms - Template Driven, Model Driven or In-Between](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
 
 
 ### Angular 2 Docs
@@ -95,6 +99,7 @@
 * [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/ziaukhan/learn-angular2)
 * [Github: Angular2 Seed TypeScript (Minko Gechev)](https://github.com/mgechev/angular2-seed)
 * [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
+* [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -129,6 +134,8 @@
 ### Classes
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
+* [Angular 2 For Beginners With Typescript (inc. Firebase App)](https://www.udemy.com/angular-2-fundamentals-with-typescript-for-pro-developers-systemjs/)
+* [Angular University - Premium Quality Tutorials on Angular 2 and its Ecosystem](https://angular-university.io/)
 
 ### Books
 * [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
