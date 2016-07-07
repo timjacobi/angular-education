@@ -81,6 +81,7 @@
 * [Video: Creating d3 components with Angular2 and TypeScript (gdi2290 and Aysegul Yonet)](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
 * [Video: Migrating an Angular 1.x app to Angular 2 (David East)](https://angularu.com/VideoSession/2015sf/migrating-to-angular2)
 * [recursive treeview in angular 2.0 (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0)
+* [The Angular University YouTube Channel](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
