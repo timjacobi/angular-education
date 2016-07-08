@@ -62,6 +62,9 @@
 * [Angular 2: Properties(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-properties/)
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 * [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/2015/08/21/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
+* [How does Angular 2 Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-angular-2-in-production-today/)
+
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
@@ -70,6 +73,7 @@
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 * [Angular 2 Form Builder and Validation Management (Cory Rylan)](https://coryrylan.com/blog/angular-2-form-builder-and-validation-management)
 * [JavaScript/JSON powered FORMS for ANGULAR 2 (ng2-formly)](https://github.com/formly-js/ng2-formly)
+* [Introduction to Angular 2 Forms - Template Driven, Model Driven or In-Between](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
@@ -199,6 +203,9 @@
 * [Angular Boot Camp](http://angularbootcamp.com)
 * [AngularClass](https://angularclass.com)
 * [Web Age Solutions - Angular 2 Programming](http://www.webagesolutions.com/courses/WA2533-angular-2-programming)
+* [Angular 2 For Beginners With Typescript (inc. Firebase App)](https://www.udemy.com/angular-2-fundamentals-with-typescript-for-pro-developers-systemjs/)
+* [Angular University - Premium Quality Tutorials on Angular 2 and its Ecosystem](https://angular-university.io/)
+
 
 ### Books
 * [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
