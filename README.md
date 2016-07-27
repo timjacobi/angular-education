@@ -163,6 +163,7 @@
 * [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
 * [Dribbble Clone using Angular 2](https://github.com/mohammedzamakhan/ng2-dribbble)
 * [Angular2 Leaflet Starter](https://github.com/haoliangyu/angular2-leaflet-starter)
+* [Angular2 MapboxGL Starter](https://github.com/haoliangyu/angular2-mapboxgl-starter)
 * [Angular 2 & TypeScript implementation of the Responsive Dashboard (RDash) admin dashboard theme @ziyasal](https://github.com/ziyasal/rdash-angular2)
 * [Angular 2 Chosen wrapper](https://github.com/zouabimourad/angular2-chosen)
 * [Angular 2 Money, dates and datetimes input handling](https://github.com/zouabimourad/angular2-datetime-money)
