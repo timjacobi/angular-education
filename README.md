@@ -101,6 +101,7 @@
 * [Angular 2 Observable Data Services (Cory Rylan)](https://coryrylan.com/blog/angular-2-observable-data-services)
 * [Angular 2 Text Snippet Directive (Cory Rylan)](https://coryrylan.com/blog/angular-2-text-snippet-directive)
 * [In-depth Guide: Creating Your First Angular 2 Component (Thomas Greco, Scotch.io)](https://scotch.io/tutorials/creating-your-first-angular-2-components)
+* [@AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
