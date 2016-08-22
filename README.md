@@ -180,6 +180,8 @@
 * [Directive checking if an element is within the browsers visual viewport (@k3nsei)](https://github.com/k3nsei/angular2-in-viewport)
 * [Directive checking if clicked inside elementRef or outside (@k3nsei)](https://github.com/k3nsei/angular2-click-outside)
 * [Angular 2 Chess (@shlomiassaf)](https://github.com/shlomiassaf/ng2-chess)
+* [MeetUpEvent (Angular2, Firebase)](https://github.com/jerry-i/meetup-events)
+
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
