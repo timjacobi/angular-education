@@ -113,12 +113,15 @@
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
 * [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
+* [angular2-data-table](https://github.com/swimlane/angular2-data-table) Yet table extension with sorting, filtering, paging...
 * [file-droppa] (https://github.com/ptkach/fileDroppa) Angular2 file upload and file list directives
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps.
 * [angular2localization](https://github.com/robisim74/angular2localization) An Angular 2 library to translate messages, dates and numbers.
 * [primeng](http://www.primefaces.org/primeng/) collection of rich UI components for Angular2.
 * [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component
 * [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) Angular2 Bootstrap3 Modal Component
+* [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) An Angular 2 Component to edit inline any text.
+
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
