@@ -181,6 +181,7 @@
 * [Directive checking if clicked inside elementRef or outside (@k3nsei)](https://github.com/k3nsei/angular2-click-outside)
 * [Angular 2 Chess (@shlomiassaf)](https://github.com/shlomiassaf/ng2-chess)
 * [MeetUpEvent (Angular2, Firebase)](https://github.com/jerry-i/meetup-events)
+* [SoundCloud API client with Angular2, NgRx/Store and NgRx/Effects](https://github.com/r-park/soundcloud-ngrx)
 
 
 ### Live Code Experiments
