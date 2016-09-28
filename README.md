@@ -28,6 +28,8 @@
 * [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
 * [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
 * [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
+* [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
+* [Video: @ngrx/store in 10 minutes (egghead.io)](https://egghead.io/lessons/angular-2-ngrx-store-in-10-minutes)
 
 ### Angular 2 Explained
 
