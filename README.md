@@ -106,6 +106,7 @@
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
+* [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) Angular 2 powered Bootstrap by the angular-ui/bootstrap team
 * [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
 * [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
