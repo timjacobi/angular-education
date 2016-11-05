@@ -225,6 +225,7 @@
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2)
 * [Mastering Angular 2 Components](https://www.packtpub.com/web-development/mastering-angular-2-components)
+* [Testing Angular 2 Applications](https://manning.com/books/testing-angular-2-applications)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-annotations)
