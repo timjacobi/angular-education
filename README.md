@@ -156,7 +156,7 @@
 * [ng2-random-user (Kent C. Dodds)](http://kentcdodds.com/ng2-random-user/) *Simple Random User Card getter using [randomuser.me](https://randomuser.me/)*
 * [hn-ng2 (Harry Wolff)](http://hswolff.github.io/hn-ng2/) *Hacker News implemented with Angular2. [Dart version (Andres Araujo)](https://github.com/andresaraujo/ng2_hackernews)*
 * [NG2 Challenges](https://github.com/ShMcK/ng2Challenges) *Challenges to help you learn and understand the evolving Angular2 Framework.*
-* [Angular2 & Express.js Starter (Antonio Fernandes)](https://github.com/afj176/ng2-express-starter)
+* [Angular 2 and Express - Heroku ready (Vlado Tešanović)](https://github.com/vladotesanovic/angular2-express-starter)
 * [cart2 (Ciro Nunes)](https://github.com/cironunes/cart2)
 * [Developing a MEAN app with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/developing-a-mean-app-with-angular-2-0/)
 * [JWT authentication in Angular 2 (mgonto and gdi2290)](https://github.com/auth0/angular2-authentication-sample)
