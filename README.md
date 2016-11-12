@@ -239,7 +239,7 @@
 ### Opinions
 * [Angular 2.0 is a tempest we should all embrace (Ed Gordon)](https://www.packtpub.com/books/content/angularjs-2-the-tempest-we-should-all-embrace)
 
-### Social Media
+### Social Media & Community
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [#angular2 on Twitter](https://twitter.com/hashtag/angular2)
 * [@angularjs on Twitter](https://twitter.com/angularjs)
@@ -247,6 +247,8 @@
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [Angularjs on Google+](https://plus.google.com/+AngularJS/posts)
 * [/r/Angular2 on Reddit](https://www.reddit.com/r/Angular2)
+* [Angular Expo - Angular 2 Showcase](http://angularexpo.com/)
+* [Made with Angular - AngularJS Showcase](https://www.madewithangular.com/)
 
 ### Angular 2 Dart
 * [Angular2 Dart API cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
