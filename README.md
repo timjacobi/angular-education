@@ -80,6 +80,12 @@
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
 
+### Angular 2 applications documentation tools
+
+* [Compodoc](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+
+* [AngularDoc](http://angulardoc.io/) : Website that display "Architectural analysis and visualization for Angular 2 projects", integrate only with a github repository
+
 ### Angular 2 Integrations
 * [Netflix: FalcorJS + Angular2 (gdi2290)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://www.angular-meteor.com/angular2)
