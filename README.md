@@ -129,6 +129,7 @@
 * [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component
 * [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) Angular2 Bootstrap3 Modal Component
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) Material Design Angular2 Swipeable Card Component
+* [ng2-pipes](https://github.com/danrevah/ng2-pipes) Useful pipes for Angular2
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
