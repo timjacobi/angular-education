@@ -195,6 +195,7 @@
 * [Angular 2 Chess (@shlomiassaf)](https://github.com/shlomiassaf/ng2-chess)
 * [MeetUpEvent (Angular2, Firebase)](https://github.com/jerry-i/meetup-events)
 * [SoundCloud API client with Angular2, NgRx/Store and NgRx/Effects](https://github.com/r-park/soundcloud-ngrx)
++ [Angular 2 AOT (Ahead-of-Time) Compilation with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
 
 
 ### Live Code Experiments
