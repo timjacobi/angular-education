@@ -130,6 +130,9 @@
 * [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) Angular2 Bootstrap3 Modal Component
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) Material Design Angular2 Swipeable Card Component
 * [ng-pipes](https://github.com/danrevah/ng-pipes) Useful pipes for Angular2
+* [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
+* [ngx-datatable](https://github.com/swimlane/ngx-datatable)  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
+* [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
