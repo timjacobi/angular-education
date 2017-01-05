@@ -65,7 +65,7 @@
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 * [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/2015/08/21/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 * [How does Angular 2 Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
-* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-angular-2-in-production-today/)
+* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-a-production-today/)
 
 
 ### Angular 2 Forms
@@ -233,7 +233,7 @@
 * [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
 * [ng-book 2 (Ari Lerner)](https://www.ng-book.com/2/)
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
-* [Angular 2 in action](https://www.manning.com/books/angular-2-in-action)
+* [Angular 2 in action](https://www.manning.com/books/angular-in-action)
 * [Angular 2 - A Practical Introduction to the New Web Development Platform](https://leanpub.com/angular2-book)
 * [Practical Angular 2](https://leanpub.com/practical-angular-2)
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
