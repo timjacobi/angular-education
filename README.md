@@ -113,6 +113,7 @@
 * [@TutorialEdge - Angular Fundamentals](https://tutorialedge.net/course/angular-2-fundamentals)
 
 ### Components
+* [Awsome Angular Components](https://github.com/Chyngyz/awesome-angular-components)
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
 * [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) Angular 2 powered Bootstrap by the angular-ui/bootstrap team
