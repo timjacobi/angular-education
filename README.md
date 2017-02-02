@@ -110,6 +110,7 @@
 * [Angular 2 Text Snippet Directive (Cory Rylan)](https://coryrylan.com/blog/angular-2-text-snippet-directive)
 * [In-depth Guide: Creating Your First Angular 2 Component (Thomas Greco, Scotch.io)](https://scotch.io/tutorials/creating-your-first-angular-2-components)
 * [@AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
+* [@TutorialEdge - Angular Fundamentals](https://tutorialedge.net/course/angular-2-fundamentals)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
@@ -199,6 +200,8 @@
 * [MeetUpEvent (Angular2, Firebase)](https://github.com/jerry-i/meetup-events)
 * [SoundCloud API client with Angular2, NgRx/Store and NgRx/Effects](https://github.com/r-park/soundcloud-ngrx)
 + [Angular 2 AOT (Ahead-of-Time) Compilation with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
+* [Ng-Chat - Angular 2 Websocket Messenger Application](https://github.com/elliotforbes/ng-chat)
+* [Angular Admin Dashboard](https://github.com/elliotforbes/angular-2-admin)
 
 
 ### Live Code Experiments
