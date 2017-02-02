@@ -65,7 +65,7 @@
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 * [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/2015/08/21/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 * [How does Angular 2 Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
-* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-angular-2-in-production-today/)
+* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-a-production-today/)
 
 
 ### Angular 2 Forms
@@ -129,7 +129,7 @@
 * [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component
 * [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) Angular2 Bootstrap3 Modal Component
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) Material Design Angular2 Swipeable Card Component
-* [ng-pipes](https://github.com/danrevah/ng-pipes) Useful pipes for Angular2
+* [ngx-pipes](https://github.com/danrevah/ngx-pipes) Useful pipes for Angular2 and beyond!
 * [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ngx-datatable](https://github.com/swimlane/ngx-datatable)  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
@@ -233,7 +233,7 @@
 * [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
 * [ng-book 2 (Ari Lerner)](https://www.ng-book.com/2/)
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
-* [Angular 2 in action](https://www.manning.com/books/angular-2-in-action)
+* [Angular 2 in action](https://www.manning.com/books/angular-in-action)
 * [Angular 2 - A Practical Introduction to the New Web Development Platform](https://leanpub.com/angular2-book)
 * [Practical Angular 2](https://leanpub.com/practical-angular-2)
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
