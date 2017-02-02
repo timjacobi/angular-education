@@ -158,6 +158,7 @@
 * [Github: Angular2 Seed ES2016 (Attila Egyed)](https://github.com/codewareio/angular2-es-seed) A complete, yet simple, starter for Angular 2 using ES2016.
 * [Github: Angular2 Seed TypeScript (Attila Egyed)](https://github.com/codewareio/angular2-ts-seed) A complete, yet simple, starter for Angular 2 using TypeScript.
 * [Github: Angular2 boilerplate on steroids (Pedro Eugenio)](https://github.com/voxmachina/angular2-boilerplate) This is an Angular 2 fullstack project boilerplate on steroids! Aimed at reaching top notch performance levels.
+* [Github: Laravel Angular2 Material Boilerplate](https://github.com/Vivify-Ideas/Laravel5-Angular2-Material) Laravel and Angular 2 integration.
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
