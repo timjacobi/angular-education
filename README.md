@@ -1,6 +1,6 @@
 # ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
 
-#### *A list of helpful material to start learning Angular*
+#### *A list of helpful material to develop using Angular*
 
 ##### Current Angular version:
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
