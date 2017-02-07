@@ -240,7 +240,7 @@
 ### Books
 * [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
 * [ng-book 2 (Ari Lerner)](https://www.ng-book.com/2/)
-* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
+* [Become a ninja with Angular](https://books.ninja-squad.com/angular)
 * [Angular 2 in action](https://www.manning.com/books/angular-in-action)
 * [Angular 2 - A Practical Introduction to the New Web Development Platform](https://leanpub.com/angular2-book)
 * [Practical Angular 2](https://leanpub.com/practical-angular-2)
