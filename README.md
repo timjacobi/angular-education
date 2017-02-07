@@ -215,7 +215,6 @@
 * [jsBin ES5 Angular 2 (gdi2290)](http://jsbin.com/fimucu/10/edit?js,output)
 
 ### Angular Material
-* [Angular 2 Material Components Preview](https://justindujardin.github.io/ng2-material/)
 * [Official Angular 2 Material Components (very early stage of its development process)](https://github.com/angular/material2)
 
 ### Stack Overflow Questions
