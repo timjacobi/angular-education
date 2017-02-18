@@ -237,6 +237,7 @@
 
 
 ### Books
+* [Angular 2 Cookbook](https://www.packtpub.com/web-development/angular-2-cookbook)
 * [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
 * [ng-book 2 (Ari Lerner)](https://www.ng-book.com/2/)
 * [Become a ninja with Angular](https://books.ninja-squad.com/angular)
