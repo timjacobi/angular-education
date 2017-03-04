@@ -165,6 +165,7 @@
 * [Github: Laravel Angular2 Material Boilerplate](https://github.com/Vivify-Ideas/Laravel5-Angular2-Material) Laravel and Angular 2 integration.
 
 ### Example Apps
+* [Yatrum.com - App for Travellers](https://github.com/aviabird/yatrum)
 * [ng2do (David East)](https://github.com/davideast/ng2do)
 * [ng-conf 2015 Demo (Microsoft)](https://github.com/Microsoft/ngconf2015demo)
 * [ng2chat (Rob Wormald)](https://github.com/robwormald/ng2chat)
