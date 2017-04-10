@@ -139,6 +139,9 @@
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) An Angular 2 Component to edit inline any text.
 * [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) Simple Angular 2 Circle Progress Component
+* [@nglibs/meta](https://github.com/nglibs/meta) Dynamic page title & meta tags utility for Angular (w/server-side rendering)
+* [@nglibs/config](https://github.com/nglibs/config) Configuration utility for Angular
+* [@nglibs/i18n-router](https://github.com/nglibs/i18n-router) Route internationalization utility for Angular
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
