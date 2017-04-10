@@ -111,6 +111,7 @@
 * [In-depth Guide: Creating Your First Angular 2 Component (Thomas Greco, Scotch.io)](https://scotch.io/tutorials/creating-your-first-angular-2-components)
 * [@AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
 * [@TutorialEdge - Angular Fundamentals](https://tutorialedge.net/course/angular-2-fundamentals)
+* [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
 
 ### Components
 * [Awsome Angular Components](https://github.com/Chyngyz/awesome-angular-components)
