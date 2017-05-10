@@ -138,6 +138,7 @@
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) An Angular 2 Component to edit inline any text.
 * [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) Simple Angular 2 Circle Progress Component
+* [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) Loading buttons for Angular 2
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
