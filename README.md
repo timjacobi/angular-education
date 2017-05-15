@@ -1,8 +1,8 @@
 # ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
 
-#### *A curated list of helpful material to start learning Angular 2*
+#### *A list of helpful material to develop using Angular*
 
-##### Current Angular 2 version:
+##### Current Angular version:
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
 
 #### *Contributing*
@@ -24,14 +24,14 @@
 * [Angular 2: Attribute @Directive() & Creating An Infinite Scroll Directive](http://orizens.com/wp/topics/angular-2-attribute-directive-creating-an-infinite-scroll-directive/)
 * [Angular 2 – Communication Between Components & Components Design](http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
 
-### Angular 2 NgRx/Store
+### Angular NgRx/Store
 * [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
 * [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
 * [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 * [Video: @ngrx/store in 10 minutes (egghead.io)](https://egghead.io/lessons/angular-2-ngrx-store-in-10-minutes)
 
-### Angular 2 Explained
+### Angular Explained
 
 * [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
@@ -65,10 +65,10 @@
 * [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 * [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/2015/08/21/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 * [How does Angular 2 Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
-* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-angular-2-in-production-today/)
+* [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-a-production-today/)
 
 
-### Angular 2 Forms
+### Angular Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
 * [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
@@ -77,16 +77,16 @@
 * [JavaScript/JSON powered FORMS for ANGULAR 2 (ng2-formly)](https://github.com/formly-js/ng2-formly)
 * [Introduction to Angular 2 Forms - Template Driven, Model Driven or In-Between](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
 
-### Angular 2 Docs
+### Angular Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
 
-### Angular 2 applications documentation tools
+### Angular applications documentation tools
 
 * [Compodoc](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
 * [AngularDoc](http://angulardoc.io/) : Website that display "Architectural analysis and visualization for Angular 2 projects", integrate only with a github repository
 
-### Angular 2 Integrations
+### Angular Integrations
 * [Netflix: FalcorJS + Angular2 (gdi2290)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://www.angular-meteor.com/angular2)
 
@@ -110,8 +110,10 @@
 * [Angular 2 Text Snippet Directive (Cory Rylan)](https://coryrylan.com/blog/angular-2-text-snippet-directive)
 * [In-depth Guide: Creating Your First Angular 2 Component (Thomas Greco, Scotch.io)](https://scotch.io/tutorials/creating-your-first-angular-2-components)
 * [@AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
+* [@TutorialEdge - Angular Fundamentals](https://tutorialedge.net/course/angular-2-fundamentals)
 
 ### Components
+* [Awsome Angular Components](https://github.com/Chyngyz/awesome-angular-components)
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
 * [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) Angular 2 powered Bootstrap by the angular-ui/bootstrap team
@@ -122,6 +124,7 @@
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
 * [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
+* [angular2-data-table](https://github.com/swimlane/angular2-data-table) Yet table extension with sorting, filtering, paging...
 * [file-droppa] (https://github.com/ptkach/fileDroppa) Angular2 file upload and file list directives
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps.
 * [angular2localization](https://github.com/robisim74/angular2localization) An Angular 2 library to translate messages, dates and numbers.
@@ -129,7 +132,12 @@
 * [Angular2 Infinite Scroll Directive](https://www.npmjs.com/package/angular2-infinite-scroll) Infinite Scroll Component
 * [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) Angular2 Bootstrap3 Modal Component
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) Material Design Angular2 Swipeable Card Component
-* [ng2-pipes](https://github.com/danrevah/ng2-pipes) Useful pipes for Angular2
+* [ngx-pipes](https://github.com/danrevah/ngx-pipes) Useful pipes for Angular2 and beyond!
+* [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
+* [ngx-datatable](https://github.com/swimlane/ngx-datatable)  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
+* [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
+* [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) An Angular 2 Component to edit inline any text.
+* [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) Simple Angular 2 Circle Progress Component
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
@@ -154,6 +162,7 @@
 * [Github: Angular2 Seed ES2016 (Attila Egyed)](https://github.com/codewareio/angular2-es-seed) A complete, yet simple, starter for Angular 2 using ES2016.
 * [Github: Angular2 Seed TypeScript (Attila Egyed)](https://github.com/codewareio/angular2-ts-seed) A complete, yet simple, starter for Angular 2 using TypeScript.
 * [Github: Angular2 boilerplate on steroids (Pedro Eugenio)](https://github.com/voxmachina/angular2-boilerplate) This is an Angular 2 fullstack project boilerplate on steroids! Aimed at reaching top notch performance levels.
+* [Github: Laravel Angular2 Material Boilerplate](https://github.com/Vivify-Ideas/Laravel5-Angular2-Material) Laravel and Angular 2 integration.
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -196,6 +205,8 @@
 * [MeetUpEvent (Angular2, Firebase)](https://github.com/jerry-i/meetup-events)
 * [SoundCloud API client with Angular2, NgRx/Store and NgRx/Effects](https://github.com/r-park/soundcloud-ngrx)
 + [Angular 2 AOT (Ahead-of-Time) Compilation with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
+* [Ng-Chat - Angular 2 Websocket Messenger Application](https://github.com/elliotforbes/ng-chat)
+* [Angular Admin Dashboard](https://github.com/elliotforbes/angular-2-admin)
 
 
 ### Live Code Experiments
@@ -203,8 +214,7 @@
 * [angular2-playground (Sekib Omazic)](https://github.com/SekibOmazic/angular2-playground)
 * [jsBin ES5 Angular 2 (gdi2290)](http://jsbin.com/fimucu/10/edit?js,output)
 
-### Angular 2 Material
-* [Angular 2 Material Components Preview](https://justindujardin.github.io/ng2-material/)
+### Angular Material
 * [Official Angular 2 Material Components (very early stage of its development process)](https://github.com/angular/material2)
 
 ### Stack Overflow Questions
@@ -229,8 +239,8 @@
 ### Books
 * [Rangle.io : Introduction to Angular 2 and ngCourse2](http://ngcourse.rangle.io/)
 * [ng-book 2 (Ari Lerner)](https://www.ng-book.com/2/)
-* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
-* [Angular 2 in action](https://www.manning.com/books/angular-2-in-action)
+* [Become a ninja with Angular](https://books.ninja-squad.com/angular)
+* [Angular 2 in action](https://www.manning.com/books/angular-in-action)
 * [Angular 2 - A Practical Introduction to the New Web Development Platform](https://leanpub.com/angular2-book)
 * [Practical Angular 2](https://leanpub.com/practical-angular-2)
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
@@ -256,7 +266,7 @@
 * [Angularjs on Google+](https://plus.google.com/+AngularJS/posts)
 * [/r/Angular2 on Reddit](https://www.reddit.com/r/Angular2)
 
-### Angular 2 Dart
+### Angular Dart
 * [Angular2 Dart API cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 * [Angular2 Dart Gnome Tutorial app](https://github.com/sanfordredlich/angular2-dart-gnome-example-app)
