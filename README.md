@@ -216,6 +216,7 @@
 
 ### Angular Material
 * [Official Angular 2 Material Components (very early stage of its development process)](https://github.com/angular/material2)
+* [MATERIAL LIGHT: Fast, light and easy to use library of UI components for Angular 2+ (Especially for mobile)](https://github.com/YagoLopez/material-light)
 
 ### Stack Overflow Questions
 * [Working with Angular 2](http://stackoverflow.com/questions/29050752/working-with-angular-2)
