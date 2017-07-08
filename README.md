@@ -205,7 +205,7 @@
 + [Angular 2 AOT (Ahead-of-Time) Compilation with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
 * [Ng-Chat - Angular 2 Websocket Messenger Application](https://github.com/elliotforbes/ng-chat)
 * [Angular Admin Dashboard](https://github.com/elliotforbes/angular-2-admin)
-
+* [Angular 2 TicTacToe with MiniMax implementation](https://github.com/botika/ng2-tictactoe)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
