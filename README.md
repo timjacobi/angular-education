@@ -136,6 +136,7 @@
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) An Angular 2 Component to edit inline any text.
 * [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) Simple Angular 2 Circle Progress Component
+* [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
@@ -205,6 +206,7 @@
 + [Angular 2 AOT (Ahead-of-Time) Compilation with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
 * [Ng-Chat - Angular 2 Websocket Messenger Application](https://github.com/elliotforbes/ng-chat)
 * [Angular Admin Dashboard](https://github.com/elliotforbes/angular-2-admin)
+* [Efficient virtual scrolling demo](https://github.com/dinony/od-vsadvanced) RxJS / Angular Material / Reactive Forms / SystemJS 
 
 
 ### Live Code Experiments
