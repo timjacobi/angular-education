@@ -9,15 +9,13 @@
 *Please send a pull request to add any links and use the issues for general questions, thanks!*
 
 ### Introduction
-* [Official Angular 2 Design Docs (Google)](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
-* [Official Angular 2 - 5 min quickstart](https://angular.io/docs/js/latest/quickstart.html)
+* [Official Angular Design Docs (Google Drive)](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
+* [Official Angular 2 - 5 min quickstart](https://angular.io/guide/quickstart)
 * [Angular2 - First Impressions (Minko Gechev)](http://blog.mgechev.com/2015/04/06/angular2-first-impressions)
 * [Angular 2 Series: Introduction (Ionic Team)](http://blog.ionic.io/angular-2-series-introduction/)
 * [Video: Keynote on Angular 2 (Misko Hevery, Rado Kirov)](https://www.youtube.com/watch?v=-dMBcqwvYA0)
 * [All About Angular 2.0 (Rob Eisenberg)](http://eisenbergeffect.bluespire.com/all-about-angular-2-0/)
 * [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
-* [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
-* [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
 * [Angular 2 and the future of HTML5 apps (Brad Green)](https://www.oreilly.com/ideas/angular-2-and-the-future-of-html5-apps)
 * [From Angular 1.x ng-repeat to Angular 2 NgFor with Component](http://orizens.com/wp/topics/from-angular-1-x-ng-repeat-to-angular-2-ngfor-with-component/)
 * [Migrating A Component From Angular 1.x to Angular 2](http://orizens.com/wp/topics/migrating-a-component-to-angular-2-from-angular-1-x-es2015/)
