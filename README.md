@@ -109,6 +109,7 @@
 * [In-depth Guide: Creating Your First Angular 2 Component (Thomas Greco, Scotch.io)](https://scotch.io/tutorials/creating-your-first-angular-2-components)
 * [@AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
 * [@TutorialEdge - Angular Fundamentals](https://tutorialedge.net/course/angular-2-fundamentals)
+* [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
 
 ### Components
 * [Awsome Angular Components](https://github.com/Chyngyz/awesome-angular-components)
@@ -136,6 +137,9 @@
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) An Angular 2 Component to edit inline any text.
 * [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) Simple Angular 2 Circle Progress Component
+* [@nglibs/meta](https://github.com/nglibs/meta) Dynamic page title & meta tags utility for Angular (w/server-side rendering)
+* [@nglibs/config](https://github.com/nglibs/config) Configuration utility for Angular
+* [@nglibs/i18n-router](https://github.com/nglibs/i18n-router) Route internationalization utility for Angular
 
 ### Boilerplates
 * [Angular CLI - Official command-line generator for Angular 2 apps](https://github.com/angular/angular-cli)
@@ -161,6 +165,7 @@
 * [Github: Angular2 Seed TypeScript (Attila Egyed)](https://github.com/codewareio/angular2-ts-seed) A complete, yet simple, starter for Angular 2 using TypeScript.
 * [Github: Angular2 boilerplate on steroids (Pedro Eugenio)](https://github.com/voxmachina/angular2-boilerplate) This is an Angular 2 fullstack project boilerplate on steroids! Aimed at reaching top notch performance levels.
 * [Github: Laravel Angular2 Material Boilerplate](https://github.com/Vivify-Ideas/Laravel5-Angular2-Material) Laravel and Angular 2 integration.
+* [Github: Universal Example App (Burak Tasci)](https://github.com/nglibs/universal-example-app) - Example app showcasing both Universal and lean Angular on a single project by @fulls1z3
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
