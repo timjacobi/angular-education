@@ -1,4 +1,4 @@
-# ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="240">
 
 #### *A list of helpful material to develop using Angular*
 
