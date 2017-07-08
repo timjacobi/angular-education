@@ -64,7 +64,7 @@
 * [How to set up Angular2 unit tests (Dima Kuzmich)](https://dimakuzmich.wordpress.com/2015/08/21/test-angular2-now-or-how-to-set-up-angular2-unit-tests/)
 * [How does Angular 2 Change Detection Really Work ?](http://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
 * [How to run Angular 2 in Production Today ?](http://blog.angular-university.io/how-to-run-a-production-today/)
-
+* [The Ultimate Angular CLI Reference Guide (Jurgen Van de Moere)](https://www.sitepoint.com/ultimate-angular-cli-reference/)
 
 ### Angular Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
@@ -109,6 +109,8 @@
 * [In-depth Guide: Creating Your First Angular 2 Component (Thomas Greco, Scotch.io)](https://scotch.io/tutorials/creating-your-first-angular-2-components)
 * [@AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
 * [@TutorialEdge - Angular Fundamentals](https://tutorialedge.net/course/angular-2-fundamentals)
+* [Angular 2 Tutorial: Create a CRUD App with Angular CLI (Todd Motto, Jurgen Van de Moere)](https://www.sitepoint.com/angular-2-tutorial/)
+* [Understanding Component Architecture: Refactoring an Angular App (Jurgen Van de Moere)](https://www.sitepoint.com/understanding-component-architecture-angular/)
 
 ### Components
 * [Awsome Angular Components](https://github.com/Chyngyz/awesome-angular-components)
