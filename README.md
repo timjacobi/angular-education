@@ -7,6 +7,7 @@
 
 ##### UPDATED REPO LINKS!
 For Angular 1.x educaction please visit https://github.com/timjacobi/angularjs-education
+
 For Angular 2+ education please visit https://github.com/timjacobi/angular-education
 
 #### *Contributing*
