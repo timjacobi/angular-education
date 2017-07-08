@@ -49,7 +49,7 @@
 * [Dependency Injection in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
 * [Angular 2 Server Rendering (gdi2290 and Jeff Whelpley)](https://angularu.com/VideoSession/2015sf/angular-2-server-rendering)
 * [Shadow DOM Strategies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
-* [Routing in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
+* [Routing in Angular 2 (Pascal Precht)](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
 * [Styling Angular 2 Components (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
 * [Even better ES5 code for Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
 * [Angular 2 Template Syntax Demystified - Part 1 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
