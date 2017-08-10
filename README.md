@@ -231,6 +231,7 @@ For Angular 2+ education please visit https://github.com/timjacobi/angular-educa
 * [How to Import Immutable.js](http://stackoverflow.com/questions/29527024/how-do-i-import-immutable-js-into-angular-2-alpha)
 
 ### Classes
+* [Udemy - Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners/?couponCode=GITHUB25)
 * [Free Udemy Course - Angular 2 Fundamentals](https://www.udemy.com/angular-2-fundamentals)
 * [Udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [Udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
