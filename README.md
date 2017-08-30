@@ -165,8 +165,7 @@ For Angular 2+ education please visit https://github.com/timjacobi/angular-educa
 * [Github: Angular2 + TypeScript: Seed Project (@ghpabs)](https://github.com/ghpabs/angular2-seed-project) Fully automated development workflow using Gulp.
 * [Github: Angular2 Starter for TypeScript (Antony Budianto)](https://github.com/antonybudianto/angular2-starter) Complete Gulp Workflow
 * [Github: Angular2 Starter for Javascript in ES6](https://github.com/blacksonic/angular2-es6-starter) Automated Gulp workflow with example CRUD application.
-* [Github: Angular2 Seed ES2016 (Attila Egyed)](https://github.com/codewareio/angular2-es-seed) A complete, yet simple, starter for Angular 2 using ES2016.
-* [Github: Angular2 Seed TypeScript (Attila Egyed)](https://github.com/codewareio/angular2-ts-seed) A complete, yet simple, starter for Angular 2 using TypeScript.
+* [Github: Angular2 Seed TypeScript (Matthias Schuetz)](https://github.com/matthias-schuetz/angular2-seed) A complete, yet simple, starter for Angular 2 using TypeScript.
 * [Github: Angular2 boilerplate on steroids (Pedro Eugenio)](https://github.com/voxmachina/angular2-boilerplate) This is an Angular 2 fullstack project boilerplate on steroids! Aimed at reaching top notch performance levels.
 * [Github: Laravel Angular2 Material Boilerplate](https://github.com/Vivify-Ideas/Laravel5-Angular2-Material) Laravel and Angular 2 integration.
 
@@ -187,7 +186,7 @@ For Angular 2+ education please visit https://github.com/timjacobi/angular-educa
 * [Angular Reading Position Indicator](https://github.com/mrzepinski/angular-rpi)
 * [d3 directives from Angular 1 to Angular 2 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3)
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
-* [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](http://shlomiassaf.github.io/angular2-modal/)
+* [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](https://github.com/shlomiassaf/ngx-modialog)
 * [Chat Application using RxJS (ng-book)](https://github.com/ng-book/angular2-rxjs-chat/)
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
 * [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
