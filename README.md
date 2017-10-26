@@ -118,6 +118,7 @@ For Angular 2+ education please visit https://github.com/timjacobi/angular-educa
 * [Understanding Component Architecture: Refactoring an Angular App (Jurgen Van de Moere)](https://www.sitepoint.com/understanding-component-architecture-angular/)
 
 ### Components
+* [Element Angular](https://github.com/eleme/element-angular) Angular UI library
 * [Awsome Angular Components](https://github.com/Chyngyz/awesome-angular-components)
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
