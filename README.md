@@ -255,6 +255,7 @@ For Angular 2+ education please visit https://github.com/timjacobi/angular-educa
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2)
 * [Mastering Angular 2 Components](https://www.packtpub.com/web-development/mastering-angular-2-components)
 * [Testing Angular 2 Applications](https://manning.com/books/testing-angular-2-applications)
+* [Angular-Buch (German)](https://angular-buch.com/)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-annotations)
