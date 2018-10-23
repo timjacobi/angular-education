@@ -290,3 +290,13 @@ For Angular 2+ education please visit https://github.com/timjacobi/angular-educa
 ### Related Lists
 * [AngularJS Education - A collection of useful resources to learn and improve your AngularJS skills](https://github.com/timjacobi/angular-education)
 * [TypeScript Education - A list of helpful material to start learning TypeScript](https://github.com/lennonjesus/typescript-education)
+
+### For sample data   
+If you need                                    
+*Public APIs for your projects                         
+*Image placeholders for your sample projects    
+*Image generators       
+*Sample text generator for your sample projects 
+*Other fake data           
+https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
+
