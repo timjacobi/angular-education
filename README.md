@@ -239,7 +239,7 @@ For Angular 2+ education please visit https://github.com/timjacobi/angular-educa
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
 * [Angular Boot Camp](http://angularbootcamp.com)
 * [AngularClass](https://angularclass.com)
-* [Web Age Solutions - Angular 2 Programming](http://www.webagesolutions.com/courses/WA2533-angular-2-programming)
+* [Web Age Solutions - Angular Programming Training](https://www.webagesolutions.com/courses/angular-training)
 * [Angular 2 For Beginners With Typescript (inc. Firebase App)](https://www.udemy.com/angular-2-fundamentals-with-typescript-for-pro-developers-systemjs/)
 * [Angular University - Premium Quality Tutorials on Angular 2 and its Ecosystem](https://angular-university.io/)
 
